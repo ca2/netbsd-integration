@@ -1,0 +1,7 @@
+integration/application_build_helper/integration
+integration/build_tool
+integration/code
+integration/configurator
+integration/console_integration
+integration/handler
+integration/integration
